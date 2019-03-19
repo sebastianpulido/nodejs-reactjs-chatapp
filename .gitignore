@@ -1,3 +1,5 @@
+jenkins_home
+
 .idea
 .DS_Store
 .env.local
